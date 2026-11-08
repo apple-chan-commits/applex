@@ -1,4 +1,4 @@
-name = "fixtweet"
+name = "applex"
 account_id = "[03352ee3976e9a689cd1fa95a160a2bc]"
 main = "./dist/worker.js"
 compatibility_date = "2026-04-11"
